@@ -1,0 +1,67 @@
+<toc>
+    <paper id="SEIM_2018_paper_5.pdf">
+        <title>Electromyography Signals Processing for Gait Phase Recognition</title>
+        <pages from="6" to="12"/>
+        <authors>
+            <author>Georgiy Zhemelev</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_11.pdf">
+        <title>Design and testing of LXC-based virtualization system for resource-constrained MIPS devices</title>
+        <pages from="13" to="21"/>
+        <authors>
+            <author>Maxim Menshchikov</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_16.pdf">
+        <title>An optimistic approach to handle out-of-order events within analytical stream processing</title>
+        <pages from="22" to="29"/>
+        <authors>
+            <author>Igor Kuralenok</author>
+            <author>Nikita Marshalkin</author>
+            <author>Artem Trofimov</author>
+            <author>Boris Novikov</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_30.pdf">
+        <title>Keyword Extraction from Single Russian Document</title>
+        <pages from="30" to="36"/>
+        <authors>
+            <author>Mikhail Sandul</author>
+            <author>Elena Mikhailova</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_32.pdf">
+        <title>Data-based code synthesis in IntelliJ IDEA</title>
+        <pages from="37" to="43"/>
+        <authors>
+            <author>Vladislav Tankov</author>
+            <author>Timofey Bryksin</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_36.pdf">
+        <title>Использование SMT-решателей для анализа систем ограничений на .NET-типы</title>
+        <pages from="44" to="52"/>
+        <authors>
+            <author>Александр Мисонижник</author>
+            <author>Дмитрий Мордвинов</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_37.pdf">
+        <title>On-the-Fly Filtering of Aggregation Results in Column-Stores</title>
+        <pages from="53" to="60"/>
+        <authors>
+            <author>Anastasia Tuchina</author>
+            <author>Valentin Grigorev</author>
+            <author>George Chernishev</author>
+        </authors>
+    </paper>
+    <paper id="SEIM_2018_paper_39.pdf">
+        <title>Development of software package for data analysis of acoustic emission control</title>
+        <pages from="61" to="66"/>
+        <authors>
+            <author>Victoria Belousova</author>
+            <author>Anastasia Grigorieva</author>
+        </authors>
+    </paper>
+</toc>
